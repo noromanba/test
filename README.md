@@ -1,3 +1,4 @@
 # The Test
 ## Japanese Test
-ディレクトリをいどうさせてみた。
+### .gitconfigの編集
+[core]セクションでEmEditorにしてviから逃避
