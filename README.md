@@ -1,3 +1,3 @@
 # The Test
 ## Japanese Test
-�ɂق񂲂ɂق�
+間違えてShift-JISつかってたから UTF-8のファイルにした
