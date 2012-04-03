@@ -1,5 +1,5 @@
 # The Test
 ## Japanese Test
-### .gitconfig縺ｮ邱ｨ髮�
-なんかvimで見るとこのファイル化けてる
+### vimの環境ぶっこわれたかもシレン
+
 
