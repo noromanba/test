@@ -1,4 +1,5 @@
 # The Test
 ## Japanese Test
 ### .gitconfigã®ç·¨é›†
-EmEditorã‹ã‚‰ã‚„ã£ãŸã‚‰ git log ãŒã°ã‘ã‚„ãŒã£ãŸãƒ»ãƒ»
+‚È‚ñ‚©vim‚ÅŒ©‚é‚Æ‚±‚Ìƒtƒ@ƒCƒ‹‰»‚¯‚Ä‚é
+
