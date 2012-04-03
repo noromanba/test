@@ -1,5 +1,3 @@
 # The Test
 ## Japanese Test
-### vim‚ÌŠÂ‹«‚Ô‚Á‚±‚í‚ê‚½‚©‚àƒVƒŒƒ“
-
-
+‚¢‚³‚¬‚æ‚­msysGit‚¢‚ê‚È‚¨‚µ‚½B
