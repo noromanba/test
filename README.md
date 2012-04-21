@@ -1,1 +1,1 @@
-Issue link test #1
+Closed Issue link test #1
